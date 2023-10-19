@@ -1,0 +1,47 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.22.17",
+    "@babel/node": "^7.22.15",
+    "@babel/preset-env": "^7.22.15",
+    "@kodingkeundev/teradood": "^1.2.0",
+    "@types/node": "^18.0.6",
+    "@xct007/frieren-scraper": "github:xct007/frieren-scraper",
+    "axios": "^0.27.2",
+    "bapti-imagine-ai": "^1.0.4",
+    "canvacord": "^5.4.5",
+    "canvas": "^2.9.3",
+    "canvas-gif": "^1.0.3",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "file-type": "^17.1.6",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "gifencoder": "^2.0.1",
+    "gm": "^1.25.0",
+    "google-it": "^1.6.4",
+    "line-sticker-util": "^1.0.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "music-metadata": "^8.0.1",
+    "node-fetch": "^3.2.6",
+    "openai": "^4.8.0",
+    "php-express": "^0.0.3",
+    "scrape": "github:Rikikangsc2/scrape",
+    "ssl-express-www": "^3.0.10",
+    "tesseract.js": "^4.1.2",
+    "xfarr-api": "^2.0.0"
+  },
+  "devDependencies": {
+    "node": "^16.10.0"
+  },
+  "description": ""
+}
