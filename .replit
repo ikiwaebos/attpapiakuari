@@ -1,0 +1,11 @@
+entrypoint = "index.js"
+modules = ["nodejs-16:v3-20230608-f4cd419"]
+hidden = [".config"]
+
+[nix]
+channel = "stable-21_11"
+
+[deployment]
+run = ["node", "index.js"]
+deploymentTarget = "cloudrun"
+ignorePorts = false
