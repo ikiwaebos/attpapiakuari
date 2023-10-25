@@ -1,5 +1,5 @@
 entrypoint = "index.js"
-modules = ["nodejs-16:v3-20230608-f4cd419"]
+modules = ["nodejs-14:v3-20230608-f4cd419"]
 hidden = [".config"]
 
 [nix]
