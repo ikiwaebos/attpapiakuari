@@ -41,7 +41,7 @@
     "xfarr-api": "^2.0.0"
   },
   "devDependencies": {
-    "node": "^14.x"
+    "node": "^16.x"
   },
   "description": ""
 }
