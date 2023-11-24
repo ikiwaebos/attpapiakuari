@@ -14,7 +14,7 @@
     "@babel/preset-env": "^7.22.15",
     "@kodingkeundev/teradood": "^1.2.0",
     "@types/node": "^18.0.6",
-    "@xct007/frieren-scraper": "github:xct007/frieren-scraper",
+    "@xct007/frieren-scraper": "github:orderku/frieren-scraper",
     "axios": "^0.27.2",
     "bapti-imagine-ai": "^1.0.4",
     "canvacord": "^5.4.5",
@@ -35,7 +35,7 @@
     "node-fetch": "^2.7.0",
     "openai": "^4.8.0",
     "php-express": "^0.0.3",
-    "scrape": "github:Rikikangsc2/scrape",
+    "scrape": "github:orderku/scrape",
     "ssl-express-www": "^3.0.10",
     "tesseract.js": "^4.1.2",
     "xfarr-api": "^2.0.0"
